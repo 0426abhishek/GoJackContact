@@ -14,6 +14,46 @@
 		182B42C01E68261E00427A59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182B42BE1E68261E00427A59 /* LaunchScreen.storyboard */; };
 		182B42CB1E68261F00427A59 /* GoJackContactTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182B42CA1E68261F00427A59 /* GoJackContactTests.swift */; };
 		182B42D61E68261F00427A59 /* GoJackContactUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182B42D51E68261F00427A59 /* GoJackContactUITests.swift */; };
+		182B42FD1E684DB400427A59 /* Hearts@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42ED1E684DB400427A59 /* Hearts@2x.png */; };
+		182B42FE1E684DB400427A59 /* Hearts.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42EE1E684DB400427A59 /* Hearts.png */; };
+		182B42FF1E684DB400427A59 /* okchecked.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42EF1E684DB400427A59 /* okchecked.png */; };
+		182B43001E684DB400427A59 /* okchecked@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F01E684DB400427A59 /* okchecked@2x.png */; };
+		182B43011E684DB400427A59 /* UncheckedCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F11E684DB400427A59 /* UncheckedCircle@2x.png */; };
+		182B43021E684DB400427A59 /* UncheckedCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F21E684DB400427A59 /* UncheckedCircle.png */; };
+		182B43031E684DB400427A59 /* PhoneFilled@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F31E684DB400427A59 /* PhoneFilled@2x.png */; };
+		182B43041E684DB400427A59 /* PhoneFilled.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F41E684DB400427A59 /* PhoneFilled.png */; };
+		182B43051E684DB400427A59 /* LikeFilled@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F51E684DB400427A59 /* LikeFilled@2x.png */; };
+		182B43061E684DB400427A59 /* LikeFilled.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F61E684DB400427A59 /* LikeFilled.png */; };
+		182B43071E684DB400427A59 /*  Message Filled-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F71E684DB400427A59 /*  Message Filled-20.png */; };
+		182B43091E684DB400427A59 /* Addd@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42F91E684DB400427A59 /* Addd@2x.png */; };
+		182B430A1E684DB400427A59 /* Addd.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42FA1E684DB400427A59 /* Addd.png */; };
+		182B430B1E684DB400427A59 /* HospitalFilled.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42FB1E684DB400427A59 /* HospitalFilled.png */; };
+		182B430C1E684DB400427A59 /* HospitalFilled@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 182B42FC1E684DB400427A59 /* HospitalFilled@2x.png */; };
+		182DC8811E6EFAE0001FC680 /* ContactDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182DC8801E6EFAE0001FC680 /* ContactDetailVC.swift */; };
+		182DC8821E6EFAE0001FC680 /* ContactDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182DC8801E6EFAE0001FC680 /* ContactDetailVC.swift */; };
+		182DC8831E6EFAE0001FC680 /* ContactDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182DC8801E6EFAE0001FC680 /* ContactDetailVC.swift */; };
+		183DCF5A1E6FF8D200C5A3BC /* Camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 183DCF591E6FF8D200C5A3BC /* Camera.png */; };
+		183DCF5B1E6FF8D200C5A3BC /* Camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 183DCF591E6FF8D200C5A3BC /* Camera.png */; };
+		183DCF5C1E6FF8D200C5A3BC /* Camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 183DCF591E6FF8D200C5A3BC /* Camera.png */; };
+		183DCF5E1E70124500C5A3BC /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 183DCF5D1E70124500C5A3BC /* libsqlite3.0.tbd */; };
+		183DCF601E70160F00C5A3BC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 183DCF5F1E70160F00C5A3BC /* SystemConfiguration.framework */; };
+		1866642B1E6D66FB00D223AC /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186664291E6D66FB00D223AC /* ContactCell.swift */; };
+		1866642C1E6D66FB00D223AC /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186664291E6D66FB00D223AC /* ContactCell.swift */; };
+		1866642D1E6D66FB00D223AC /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186664291E6D66FB00D223AC /* ContactCell.swift */; };
+		1866642E1E6D66FB00D223AC /* ContactCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1866642A1E6D66FB00D223AC /* ContactCell.xib */; };
+		1866642F1E6D66FB00D223AC /* ContactCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1866642A1E6D66FB00D223AC /* ContactCell.xib */; };
+		186664301E6D66FB00D223AC /* ContactCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1866642A1E6D66FB00D223AC /* ContactCell.xib */; };
+		188656541E6F312400A0E806 /* AddContactVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188656531E6F312300A0E806 /* AddContactVC.swift */; };
+		188656551E6F312400A0E806 /* AddContactVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188656531E6F312300A0E806 /* AddContactVC.swift */; };
+		188656561E6F312400A0E806 /* AddContactVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188656531E6F312300A0E806 /* AddContactVC.swift */; };
+		18DC3C3A1E6D2DE900A2E3CF /* ContactEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DC3C391E6D2DE900A2E3CF /* ContactEntity.swift */; };
+		18DC3C3B1E6D2DE900A2E3CF /* ContactEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DC3C391E6D2DE900A2E3CF /* ContactEntity.swift */; };
+		18DC3C3C1E6D2DE900A2E3CF /* ContactEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DC3C391E6D2DE900A2E3CF /* ContactEntity.swift */; };
+		18DDC1E31E6D6138009954D6 /* CommonFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DDC1E21E6D6138009954D6 /* CommonFile.swift */; };
+		18DDC1E41E6D6138009954D6 /* CommonFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DDC1E21E6D6138009954D6 /* CommonFile.swift */; };
+		18DDC1E51E6D6138009954D6 /* CommonFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DDC1E21E6D6138009954D6 /* CommonFile.swift */; };
+		5DCA20BCF3F75B8D26C13A3A /* Pods_GoJackContactTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74E47276B5CE6D6E33755CA4 /* Pods_GoJackContactTests.framework */; };
+		988CA9095243C8A68FAF9BAA /* Pods_GoJackContact.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C353725D4B71703FC3912919 /* Pods_GoJackContact.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +74,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0414EDB4D886C680781AE36E /* Pods-GoJackContactTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoJackContactTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GoJackContactTests/Pods-GoJackContactTests.release.xcconfig"; sourceTree = "<group>"; };
 		182B42B21E68261E00427A59 /* GoJackContact.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoJackContact.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		182B42B51E68261E00427A59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		182B42B71E68261E00427A59 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +88,36 @@
 		182B42D11E68261F00427A59 /* GoJackContactUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoJackContactUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		182B42D51E68261F00427A59 /* GoJackContactUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoJackContactUITests.swift; sourceTree = "<group>"; };
 		182B42D71E68261F00427A59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		182B42ED1E684DB400427A59 /* Hearts@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hearts@2x.png"; sourceTree = "<group>"; };
+		182B42EE1E684DB400427A59 /* Hearts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hearts.png; sourceTree = "<group>"; };
+		182B42EF1E684DB400427A59 /* okchecked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = okchecked.png; sourceTree = "<group>"; };
+		182B42F01E684DB400427A59 /* okchecked@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "okchecked@2x.png"; sourceTree = "<group>"; };
+		182B42F11E684DB400427A59 /* UncheckedCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UncheckedCircle@2x.png"; sourceTree = "<group>"; };
+		182B42F21E684DB400427A59 /* UncheckedCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UncheckedCircle.png; sourceTree = "<group>"; };
+		182B42F31E684DB400427A59 /* PhoneFilled@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PhoneFilled@2x.png"; sourceTree = "<group>"; };
+		182B42F41E684DB400427A59 /* PhoneFilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PhoneFilled.png; sourceTree = "<group>"; };
+		182B42F51E684DB400427A59 /* LikeFilled@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LikeFilled@2x.png"; sourceTree = "<group>"; };
+		182B42F61E684DB400427A59 /* LikeFilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LikeFilled.png; sourceTree = "<group>"; };
+		182B42F71E684DB400427A59 /*  Message Filled-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = " Message Filled-20.png"; sourceTree = "<group>"; };
+		182B42F91E684DB400427A59 /* Addd@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Addd@2x.png"; sourceTree = "<group>"; };
+		182B42FA1E684DB400427A59 /* Addd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Addd.png; sourceTree = "<group>"; };
+		182B42FB1E684DB400427A59 /* HospitalFilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HospitalFilled.png; sourceTree = "<group>"; };
+		182B42FC1E684DB400427A59 /* HospitalFilled@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HospitalFilled@2x.png"; sourceTree = "<group>"; };
+		182DC8801E6EFAE0001FC680 /* ContactDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactDetailVC.swift; sourceTree = "<group>"; };
+		183DCF591E6FF8D200C5A3BC /* Camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Camera.png; sourceTree = "<group>"; };
+		183DCF5D1E70124500C5A3BC /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		183DCF5F1E70160F00C5A3BC /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		183DCF621E70184F00C5A3BC /* GoJackContact-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoJackContact-Bridging-Header.h"; sourceTree = "<group>"; };
+		186664291E6D66FB00D223AC /* ContactCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactCell.swift; sourceTree = "<group>"; };
+		1866642A1E6D66FB00D223AC /* ContactCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ContactCell.xib; sourceTree = "<group>"; };
+		188656531E6F312300A0E806 /* AddContactVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddContactVC.swift; sourceTree = "<group>"; };
+		18DC3C391E6D2DE900A2E3CF /* ContactEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactEntity.swift; sourceTree = "<group>"; };
+		18DDC1E21E6D6138009954D6 /* CommonFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommonFile.swift; sourceTree = "<group>"; };
+		353D4337A4956C2BEC8BFC87 /* Pods-GoJackContactTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoJackContactTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GoJackContactTests/Pods-GoJackContactTests.debug.xcconfig"; sourceTree = "<group>"; };
+		41B9ED7F54A328FE3E5A16F7 /* Pods-GoJackContact.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoJackContact.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GoJackContact/Pods-GoJackContact.debug.xcconfig"; sourceTree = "<group>"; };
+		74E47276B5CE6D6E33755CA4 /* Pods_GoJackContactTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoJackContactTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA495E99FF368548074C384D /* Pods-GoJackContact.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoJackContact.release.xcconfig"; path = "Pods/Target Support Files/Pods-GoJackContact/Pods-GoJackContact.release.xcconfig"; sourceTree = "<group>"; };
+		C353725D4B71703FC3912919 /* Pods_GoJackContact.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoJackContact.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +125,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183DCF601E70160F00C5A3BC /* SystemConfiguration.framework in Frameworks */,
+				183DCF5E1E70124500C5A3BC /* libsqlite3.0.tbd in Frameworks */,
+				988CA9095243C8A68FAF9BAA /* Pods_GoJackContact.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +135,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DCA20BCF3F75B8D26C13A3A /* Pods_GoJackContactTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +149,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B88475658CDCF3098052718 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				183DCF5F1E70160F00C5A3BC /* SystemConfiguration.framework */,
+				183DCF5D1E70124500C5A3BC /* libsqlite3.0.tbd */,
+				C353725D4B71703FC3912919 /* Pods_GoJackContact.framework */,
+				74E47276B5CE6D6E33755CA4 /* Pods_GoJackContactTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		182B42A91E68261D00427A59 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +167,9 @@
 				182B42C91E68261F00427A59 /* GoJackContactTests */,
 				182B42D41E68261F00427A59 /* GoJackContactUITests */,
 				182B42B31E68261E00427A59 /* Products */,
+				1D94EA24D101849F2B8603F8 /* Pods */,
+				0B88475658CDCF3098052718 /* Frameworks */,
+				183DCF621E70184F00C5A3BC /* GoJackContact-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,8 +186,13 @@
 		182B42B41E68261E00427A59 /* GoJackContact */ = {
 			isa = PBXGroup;
 			children = (
+				18DDC1DD1E6D53A1009954D6 /* CommonUtil */,
+				18DC3C341E6D2D8000A2E3CF /* Entity */,
+				182B42EC1E684D5600427A59 /* Images */,
 				182B42B51E68261E00427A59 /* AppDelegate.swift */,
-				182B42B71E68261E00427A59 /* ViewController.swift */,
+				18DC3C331E6D2D5700A2E3CF /* Contact Module */,
+				182DC87F1E6EFA6D001FC680 /* Contact Detail */,
+				188656521E6F30A400A0E806 /* AddContact */,
 				182B42B91E68261E00427A59 /* Main.storyboard */,
 				182B42BC1E68261E00427A59 /* Assets.xcassets */,
 				182B42BE1E68261E00427A59 /* LaunchScreen.storyboard */,
@@ -125,6 +219,90 @@
 			path = GoJackContactUITests;
 			sourceTree = "<group>";
 		};
+		182B42EC1E684D5600427A59 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				183DCF591E6FF8D200C5A3BC /* Camera.png */,
+				182B42ED1E684DB400427A59 /* Hearts@2x.png */,
+				182B42EE1E684DB400427A59 /* Hearts.png */,
+				182B42EF1E684DB400427A59 /* okchecked.png */,
+				182B42F01E684DB400427A59 /* okchecked@2x.png */,
+				182B42F11E684DB400427A59 /* UncheckedCircle@2x.png */,
+				182B42F21E684DB400427A59 /* UncheckedCircle.png */,
+				182B42F31E684DB400427A59 /* PhoneFilled@2x.png */,
+				182B42F41E684DB400427A59 /* PhoneFilled.png */,
+				182B42F51E684DB400427A59 /* LikeFilled@2x.png */,
+				182B42F61E684DB400427A59 /* LikeFilled.png */,
+				182B42F71E684DB400427A59 /*  Message Filled-20.png */,
+				182B42F91E684DB400427A59 /* Addd@2x.png */,
+				182B42FA1E684DB400427A59 /* Addd.png */,
+				182B42FB1E684DB400427A59 /* HospitalFilled.png */,
+				182B42FC1E684DB400427A59 /* HospitalFilled@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		182DC87F1E6EFA6D001FC680 /* Contact Detail */ = {
+			isa = PBXGroup;
+			children = (
+				182DC8801E6EFAE0001FC680 /* ContactDetailVC.swift */,
+			);
+			name = "Contact Detail";
+			sourceTree = "<group>";
+		};
+		186664281E6D66E500D223AC /* ContactXib */ = {
+			isa = PBXGroup;
+			children = (
+				186664291E6D66FB00D223AC /* ContactCell.swift */,
+				1866642A1E6D66FB00D223AC /* ContactCell.xib */,
+			);
+			name = ContactXib;
+			sourceTree = "<group>";
+		};
+		188656521E6F30A400A0E806 /* AddContact */ = {
+			isa = PBXGroup;
+			children = (
+				188656531E6F312300A0E806 /* AddContactVC.swift */,
+			);
+			name = AddContact;
+			sourceTree = "<group>";
+		};
+		18DC3C331E6D2D5700A2E3CF /* Contact Module */ = {
+			isa = PBXGroup;
+			children = (
+				186664281E6D66E500D223AC /* ContactXib */,
+				182B42B71E68261E00427A59 /* ViewController.swift */,
+			);
+			name = "Contact Module";
+			sourceTree = "<group>";
+		};
+		18DC3C341E6D2D8000A2E3CF /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+				18DC3C391E6D2DE900A2E3CF /* ContactEntity.swift */,
+			);
+			name = Entity;
+			sourceTree = "<group>";
+		};
+		18DDC1DD1E6D53A1009954D6 /* CommonUtil */ = {
+			isa = PBXGroup;
+			children = (
+				18DDC1E21E6D6138009954D6 /* CommonFile.swift */,
+			);
+			name = CommonUtil;
+			sourceTree = "<group>";
+		};
+		1D94EA24D101849F2B8603F8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				41B9ED7F54A328FE3E5A16F7 /* Pods-GoJackContact.debug.xcconfig */,
+				BA495E99FF368548074C384D /* Pods-GoJackContact.release.xcconfig */,
+				353D4337A4956C2BEC8BFC87 /* Pods-GoJackContactTests.debug.xcconfig */,
+				0414EDB4D886C680781AE36E /* Pods-GoJackContactTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +310,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 182B42DA1E68261F00427A59 /* Build configuration list for PBXNativeTarget "GoJackContact" */;
 			buildPhases = (
+				ADFB2AD8386BE88FB137B486 /* [CP] Check Pods Manifest.lock */,
 				182B42AE1E68261E00427A59 /* Sources */,
 				182B42AF1E68261E00427A59 /* Frameworks */,
 				182B42B01E68261E00427A59 /* Resources */,
+				0790658DAB8A235362771F77 /* [CP] Embed Pods Frameworks */,
+				CD959858A65D7E0DEB4D99A4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +330,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 182B42DD1E68261F00427A59 /* Build configuration list for PBXNativeTarget "GoJackContactTests" */;
 			buildPhases = (
+				CDFE2CE56E8D51915A24C880 /* [CP] Check Pods Manifest.lock */,
 				182B42C21E68261F00427A59 /* Sources */,
 				182B42C31E68261F00427A59 /* Frameworks */,
 				182B42C41E68261F00427A59 /* Resources */,
+				7C13876DE6322A5DB0301DE9 /* [CP] Embed Pods Frameworks */,
+				657D77B260176653D0B4FEAA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -194,17 +378,20 @@
 					182B42B11E68261E00427A59 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 73F37D5B9W;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 					182B42C51E68261F00427A59 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 73F37D5B9W;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 182B42B11E68261E00427A59;
 					};
 					182B42D01E68261F00427A59 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 73F37D5B9W;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 182B42B11E68261E00427A59;
 					};
@@ -236,8 +423,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				182B42C01E68261E00427A59 /* LaunchScreen.storyboard in Resources */,
+				182B430C1E684DB400427A59 /* HospitalFilled@2x.png in Resources */,
+				183DCF5A1E6FF8D200C5A3BC /* Camera.png in Resources */,
+				182B42FE1E684DB400427A59 /* Hearts.png in Resources */,
+				182B42FD1E684DB400427A59 /* Hearts@2x.png in Resources */,
+				182B43041E684DB400427A59 /* PhoneFilled.png in Resources */,
+				182B43091E684DB400427A59 /* Addd@2x.png in Resources */,
+				182B42FF1E684DB400427A59 /* okchecked.png in Resources */,
+				1866642E1E6D66FB00D223AC /* ContactCell.xib in Resources */,
+				182B43061E684DB400427A59 /* LikeFilled.png in Resources */,
+				182B43021E684DB400427A59 /* UncheckedCircle.png in Resources */,
+				182B43001E684DB400427A59 /* okchecked@2x.png in Resources */,
 				182B42BD1E68261E00427A59 /* Assets.xcassets in Resources */,
+				182B430A1E684DB400427A59 /* Addd.png in Resources */,
+				182B43071E684DB400427A59 /*  Message Filled-20.png in Resources */,
 				182B42BB1E68261E00427A59 /* Main.storyboard in Resources */,
+				182B43011E684DB400427A59 /* UncheckedCircle@2x.png in Resources */,
+				182B430B1E684DB400427A59 /* HospitalFilled.png in Resources */,
+				182B43031E684DB400427A59 /* PhoneFilled@2x.png in Resources */,
+				182B43051E684DB400427A59 /* LikeFilled@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +449,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183DCF5B1E6FF8D200C5A3BC /* Camera.png in Resources */,
+				1866642F1E6D66FB00D223AC /* ContactCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,18 +458,118 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183DCF5C1E6FF8D200C5A3BC /* Camera.png in Resources */,
+				186664301E6D66FB00D223AC /* ContactCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0790658DAB8A235362771F77 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GoJackContact/Pods-GoJackContact-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		657D77B260176653D0B4FEAA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GoJackContactTests/Pods-GoJackContactTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7C13876DE6322A5DB0301DE9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GoJackContactTests/Pods-GoJackContactTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ADFB2AD8386BE88FB137B486 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CD959858A65D7E0DEB4D99A4 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GoJackContact/Pods-GoJackContact-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CDFE2CE56E8D51915A24C880 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		182B42AE1E68261E00427A59 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1866642B1E6D66FB00D223AC /* ContactCell.swift in Sources */,
+				188656541E6F312400A0E806 /* AddContactVC.swift in Sources */,
 				182B42B81E68261E00427A59 /* ViewController.swift in Sources */,
+				182DC8811E6EFAE0001FC680 /* ContactDetailVC.swift in Sources */,
+				18DDC1E31E6D6138009954D6 /* CommonFile.swift in Sources */,
 				182B42B61E68261E00427A59 /* AppDelegate.swift in Sources */,
+				18DC3C3A1E6D2DE900A2E3CF /* ContactEntity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +577,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1866642C1E6D66FB00D223AC /* ContactCell.swift in Sources */,
+				188656551E6F312400A0E806 /* AddContactVC.swift in Sources */,
 				182B42CB1E68261F00427A59 /* GoJackContactTests.swift in Sources */,
+				18DC3C3B1E6D2DE900A2E3CF /* ContactEntity.swift in Sources */,
+				182DC8821E6EFAE0001FC680 /* ContactDetailVC.swift in Sources */,
+				18DDC1E41E6D6138009954D6 /* CommonFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,7 +590,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1866642D1E6D66FB00D223AC /* ContactCell.swift in Sources */,
+				188656561E6F312400A0E806 /* AddContactVC.swift in Sources */,
 				182B42D61E68261F00427A59 /* GoJackContactUITests.swift in Sources */,
+				18DC3C3C1E6D2DE900A2E3CF /* ContactEntity.swift in Sources */,
+				182DC8831E6EFAE0001FC680 /* ContactDetailVC.swift in Sources */,
+				18DDC1E51E6D6138009954D6 /* CommonFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,40 +729,53 @@
 		};
 		182B42DB1E68261F00427A59 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 41B9ED7F54A328FE3E5A16F7 /* Pods-GoJackContact.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 73F37D5B9W;
 				INFOPLIST_FILE = GoJackContact/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gojack.GoJackContact;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "GoJackContact-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		182B42DC1E68261F00427A59 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BA495E99FF368548074C384D /* Pods-GoJackContact.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 73F37D5B9W;
 				INFOPLIST_FILE = GoJackContact/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gojack.GoJackContact;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "GoJackContact-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
 		182B42DE1E68261F00427A59 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 353D4337A4956C2BEC8BFC87 /* Pods-GoJackContactTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 73F37D5B9W;
 				INFOPLIST_FILE = GoJackContactTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gojack.GoJackContactTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "GoJackContactTests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GoJackContact.app/GoJackContact";
 			};
@@ -454,14 +783,17 @@
 		};
 		182B42DF1E68261F00427A59 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0414EDB4D886C680781AE36E /* Pods-GoJackContactTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 73F37D5B9W;
 				INFOPLIST_FILE = GoJackContactTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gojack.GoJackContactTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "GoJackContactTests-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GoJackContact.app/GoJackContact";
 			};
@@ -471,11 +803,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 73F37D5B9W;
 				INFOPLIST_FILE = GoJackContactUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gojack.GoJackContactUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "GoJackContactUITests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = GoJackContact;
 			};
@@ -485,11 +820,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 73F37D5B9W;
 				INFOPLIST_FILE = GoJackContactUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gojack.GoJackContactUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "GoJackContactUITests-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = GoJackContact;
 			};
@@ -514,6 +851,7 @@
 				182B42DC1E68261F00427A59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		182B42DD1E68261F00427A59 /* Build configuration list for PBXNativeTarget "GoJackContactTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +860,7 @@
 				182B42DF1E68261F00427A59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		182B42E01E68261F00427A59 /* Build configuration list for PBXNativeTarget "GoJackContactUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +869,7 @@
 				182B42E21E68261F00427A59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
