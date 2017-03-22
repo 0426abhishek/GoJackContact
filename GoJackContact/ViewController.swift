@@ -22,9 +22,38 @@ internal let SQLITE_STATIC = unsafeBitCast(0, to: sqlite3_destructor_type.self)
 internal let SQLITE_TRANSIENT = unsafeBitCast(-1, to: sqlite3_destructor_type.self)
 override func viewDidLoad() {
 super.viewDidLoad()
+    
+//    let alertController = UIAlertController(title:"To get access of key", message: "Please Enter Your Apple Id", preferredStyle: .alert)
+//    
+//    let confirmAction = UIAlertAction(title: "Confirm", style: .default) { (_) in
+//        if let field = alertController.textFields?[0] {
+//            // store your data
+//              print(field.text ?? 0)
+//               print(alertController.textFields?[1].text ?? 0)
+//            UserDefaults.standard.set(field.text, forKey: "userEmail")
+//            UserDefaults.standard.synchronize()
+//        } else {
+//            // user did not fill field
+//        }
+//    }
+//    
+//    let cancelAction = UIAlertAction(title: "Cancel", style: .cancel) { (_) in }
+//    
+//    alertController.addTextField { (textField) in
+//        textField.placeholder = "Email"
+//    }
+//    alertController.addTextField { (textField) in
+//        textField.placeholder = "Password"
+//    }
+//    
+//    alertController.addAction(confirmAction)
+//    alertController.addAction(cancelAction)
+//    self.present(alertController, animated: true, completion: nil)
+    
 let nc = NotificationCenter.default
 nc.addObserver(forName:reloadContact, object:nil, queue:nil, using:catchNotification)
-ContactTableView.register(UINib(nibName: "ContactCell", bundle: nil), forCellReuseIdentifier: "ContactCell")
+
+    ContactTableView.register(UINib(nibName: "ContactCell", bundle: nil), forCellReuseIdentifier: "ContactCell")
 ContactTableView.tableFooterView = UIView(frame: .zero)
 self.navigationItem.title = "Contacts"
 let addimage = UIImage(named: "Addd.png")
